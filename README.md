@@ -81,4 +81,4 @@ Deepest text: Texto profundo
 
 ## 🧑‍💻 Autor
 
-Desenvolvido por [Marcos Goulart] como parte de um desafio técnico.
+Desenvolvido por mim como parte de um desafio técnico.
